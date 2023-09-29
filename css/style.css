@@ -1,0 +1,39 @@
+img{
+    width: 190px;
+}
+div{
+    background-color: #f5f5f5;
+    padding: 50px;
+    text-align: center;
+    border-bottom: #d5d5d5 1px solid;
+    font-family: Tahoma;
+}
+
+h2{
+    font-size: 24px;
+}
+
+p{
+    text-align: center;
+    line-height: 28px;
+    width: 930px;
+    margin: 0 auto;
+}
+
+a{
+    background-color: #00ff00;
+    font-size: 14px;
+    font-weight: bold;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 6px 15px;
+    border-radius: 50px;
+}
+
+a:hover{
+    background-color: #00f100;
+}
+span{
+    font-weight: bold;
+}
+
